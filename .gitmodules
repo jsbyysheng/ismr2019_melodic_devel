@@ -1,0 +1,15 @@
+[submodule "ismr19_description"]
+	path = ismr19_description
+	url = https://github.com/jsbyysheng/ismr19_description.git
+[submodule "ros_bx_robot_bridge"]
+	path = ros_bx_robot_bridge
+	url = https://github.com/jsbyysheng/ros_bx_robot_bridge.git
+[submodule "ismr19_moveit"]
+	path = ismr19_moveit
+	url = https://github.com/jsbyysheng/ismr19_moveit.git
+[submodule "ismr19_control"]
+	path = ismr19_control
+	url = https://github.com/jsbyysheng/ismr19_control.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/jsbyysheng/rosmed.github.io.git
